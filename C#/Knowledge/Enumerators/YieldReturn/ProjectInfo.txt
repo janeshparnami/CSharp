@@ -1,0 +1,20 @@
+The project was created with the help of a youtube tutorial.Link Below.
+https://www.youtube.com/watch?v=HRXkeaeImGs
+
+One Package was added for benchmarking.
+Which package and how to install referenced from the link below.Usage of the package was demonstrated in the youtube tutorial itself.
+https://www.codemag.com/Article/2209061/Benchmarking-.NET-6-Applications-Using-BenchmarkDotNet-A-Deep-Dive
+
+
+Basic Steps to get the package 
+1.) Right Click SOlutions in the solution explorer.
+2.)Manage NuGet packages
+3.)FInd BenchMarkDotNet.Annotations
+4.)Install it.
+5.)IN the Script use using benchmarkdotnet.attributes.
+6.)add [MemoryDiagnoser] below namespace and above class.
+7.)add [benchmark] to each method required to be benchmarked.
+8.)comment code in static main
+9.) add var summary = benchmarkrunner.run<yieldbenchmark>();
+10.)The benchmark class should be public and all methods being benchmarked should be public as well.(Static wont work)
+11.)Also Note the project should be run in the release mode.

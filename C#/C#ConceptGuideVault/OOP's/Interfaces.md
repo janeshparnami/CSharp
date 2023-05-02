@@ -1,0 +1,6 @@
+- Only allows you to define functionality and not implement it.
+- Methods in an interface are by default abstract and public.
+- It is basically a contract that any class that implements the interface must implement all the methods.
+- Interface cannot be instantiated, though, interface references can point to objects that implement the interface.
+	- Also you can be sure that the object will have the right methods as it has to implement the contract provided by the interface.
+- 

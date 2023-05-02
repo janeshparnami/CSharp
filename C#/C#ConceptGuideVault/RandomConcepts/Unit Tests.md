@@ -1,0 +1,7 @@
+- Create another project in the same solution.
+- Make sure the project to be unit tested has atleast one public class so that the unit test project can access that.
+- Internal classes can only be accessed within the project.
+- Make sure the dependencies in the unit test project are properly added. ![[Screenshot (20).png]]
+- Add proper __using__ statements in the unit test .cs file.![[Screenshot (21).png]]
+- Add __[Test Class]__  and __[Test Method]__ in the proper places.
+- 

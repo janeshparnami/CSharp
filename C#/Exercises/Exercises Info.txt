@@ -1,0 +1,10 @@
+https://www.exercisescsharp.com/oop/
+
+1. AbstractClass-Ex
+2. personStudentTeacher-Ex
+3. PhotoBookClass-Ex
+
+https://raisanenmarkus.github.io/csharp/part4/4/
+
+1. Part4OOP-Ex
+

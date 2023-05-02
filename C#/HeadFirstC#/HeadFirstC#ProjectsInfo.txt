@@ -1,0 +1,9 @@
+Swap2References:
+How to swap 2 references.
+Use of this keyword(Debug to understand better).
+How to create an object and what are reference variables.
+How to convert a char to int 4 methods.
+
+# Hi-Lo Project
+Encapsulation basics -- Public :Private fields
+Reflection 

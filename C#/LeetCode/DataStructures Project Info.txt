@@ -1,0 +1,11 @@
+Day1
+Problem 1
+Whether the numbers are distinct or not.
+Used HashSet.
+
+Problem 2
+Maximum Subarray sum.
+Used Kadane's Algorithm.
+
+Day2
+Problem1 

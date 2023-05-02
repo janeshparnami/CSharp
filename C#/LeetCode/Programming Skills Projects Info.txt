@@ -1,0 +1,33 @@
+Day1
+Problem1 - E(1523)
+Number of Odd numbers between 2 numbers low and high.
+Ingenious Solutions
+
+Problem 2 - E(1491)
+Sum of Salary excluding Max and Min Salary.
+
+Problem 3 - E(191)
+Find number of 1's bits in a Uint.
+3 Ways implemented and different concept.
+
+Problem 4 - E(1281)
+Find difference between product and sum of an integer.
+
+Problem 5 - E(976)
+Find the Largest perimeter if 3 lengths make a triangle in an array.
+
+Problem 6 - E(1779)
+Find the manhattan distance.
+
+Problem 7 - E(1822)
+Find the sign of the product of an array.
+
+Problem 8 - E(1502)
+Does the array make an arithmetic progression.
+
+Problem 9 - E(202)
+Is the Number Happy or Not?
+Requires some Thought.
+
+Problem 10 - E(1790)
+

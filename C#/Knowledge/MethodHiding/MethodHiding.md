@@ -1,0 +1,7 @@
+- This is a very good example imitating the use case of the scripts in hand tracking project.
+- Files are as follows -
+	- Abstract **ImageSourceSolution** <\T> : Solution Where T : GraphRunner
+	- Abstract GraphRunner
+	- HandTrackingGraph
+	- HandTrackingSolution : ImageSourceSolution \<**HandTrackingGraph**\>
+	- 

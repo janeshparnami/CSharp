@@ -1,0 +1,2 @@
+- Generic type constraint (`ImageSourceSolution<T> : Solution where T : GraphRunner`) keyword `where`  when used as `where : BaseClass` means that any `Derived Class` can also be sent as type argument to the `ImageSourceSolution<HandTrackingGraph>` . In the above example `HandTrackingGraph : GraphRunner`.
+- 

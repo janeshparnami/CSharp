@@ -1,0 +1,4 @@
+- Cannot be inherited.
+- Can be instantiated.
+- __Design Intent__ : Specialized class, often used to encapsulate logic that needs to be used across the program, preventing unintended derivation.
+- structs are implicitly sealed
